@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: M1-Setup-1.0.0.exe
+    sha512: 7xff0xrYhCpLNkpw/wz5sxkRSpSZFWnQcS4Igb1E2fCLaPFBipNk3AzhZDKheKY3lmFY5/eFXLZ7Uu0puWrqyA==
+    size: 78965570
+path: M1-Setup-1.0.0.exe
+sha512: 7xff0xrYhCpLNkpw/wz5sxkRSpSZFWnQcS4Igb1E2fCLaPFBipNk3AzhZDKheKY3lmFY5/eFXLZ7Uu0puWrqyA==
+releaseDate: '2024-02-16T19:21:13.874Z'

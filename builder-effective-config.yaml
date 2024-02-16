@@ -1,0 +1,11 @@
+directories:
+  output: dist
+  buildResources: build
+appId: purcell.eco.m1
+productName: M1
+mac:
+  category: public.app-category.business
+win:
+  target: nsis
+files: []
+electronVersion: 28.2.1
